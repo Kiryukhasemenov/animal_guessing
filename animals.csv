@@ -1,0 +1,6 @@
+animal,color,numLegs,ifFlies,ifUnderwater,ifBiggerHuman
+camel,yellow,4,False,False,gt
+frog,green,4,False,False,lt
+flamingo,pink,2,True,False,lt
+shark,grey,0,False,True,gt
+grasshopper,green,6,True,False,lt
