@@ -6,6 +6,8 @@ This is the technical assignment accomplished by Kirill Semenov. The aim was to 
 1. As the Dialogflow allows only for the detection and answering for the intents, the user should start the dialog (by standard greetings like "hi", "hello" etc.)
 2. The user can either guess the animal, or get new info by asking leading questions. The questions about the animal can either be formed as "yes/no" questions ("does it have 4 legs? => {y; n}), or by requesting the infromation about the animal ("how many legs does the animal have?" => {number of legs}). When the user guesses the animal right, he is provided by the opportunity to repeat the game. The user can also exit the game at any step (before the beginning, within the game and after it).
 </br>
+
+
 **Code description**
 
 1. The [code](animal_guessing.py) and the [intents](animal_guessing.zip) are organized as follows:
